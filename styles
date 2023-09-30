@@ -1,0 +1,22 @@
+.custom-list {
+    list-style-type: disc; 
+    margin-left: 20px;    
+}
+
+.custom-list li {
+    margin-bottom: 15px;   
+}
+
+pre {
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    background-color: #f4f4f4;
+    padding: 10px;
+    overflow: auto;
+}
+
+code {
+    font-style: italic;
+    color: #333;
+}
+
